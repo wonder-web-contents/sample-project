@@ -1,0 +1,32 @@
+div{
+    display: inline-block;
+	width: 15rem;
+	height: 15rem;
+	margin: 0;
+    padding: 0;
+    
+    border-width: 1rem;
+    border-color: black;
+    border-style: solid;
+}
+
+.box1 {
+    background: red;
+    border-width: 3rem;
+    margin-right: 4rem;
+    padding: 3rem 0;
+}
+.box2 {
+	background: blue;
+    margin: 3rem;
+    padding: 1rem;
+}
+.box3 {
+    background: green;
+    border-color: yellow;
+}
+
+img {
+	width: 15rem;
+	height: 15rem;
+}
